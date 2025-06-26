@@ -18,14 +18,11 @@ I'm Rohini Patturaja, a passionate Data Analyst with an array of skills in SQL, 
 * Spreadsheet: MS Excel
 🖇️Projects
 
-* Check out my Project Portfolio: My Projects
-Check out my [portfolio website](https://your-portfolio.com)!
-
+* Check out my Project Portfolio : [My Projects]([https://your-portfolio.com](https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja))!
 
 🕸️Let's Connect
-
-
-* Linkedln | Rohini Patturaja
+ 
+* Linkedln | [Rohini Patturaja](https://www.linkedin.com/in/your‑username/).
 
 
 

@@ -20,6 +20,8 @@ I'm Rohini Patturaja, a passionate Data Analyst with an array of skills in SQL, 
 🖇️Projects
 
 * Check out my Project Portfolio : [My Projects]([https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja])
+* Check out my [portfolio website]([https://your-portfolio.com](https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja))!
+
 
 🕸️Let's Connect
  

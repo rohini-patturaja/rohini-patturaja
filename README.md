@@ -16,9 +16,10 @@ I'm Rohini Patturaja, a passionate Data Analyst with an array of skills in SQL, 
 * Database: PostgreSQL, MySQL
 * Visualization: Power BI, Tableau
 * Spreadsheet: MS Excel
+  
 🖇️Projects
 
-* Check out my Project Portfolio : [My Projects]([https://your-portfolio.com](https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja))!
+* Check out my Project Portfolio : [My Projects]([https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja])
 
 🕸️Let's Connect
  

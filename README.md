@@ -1,4 +1,4 @@
-👋 Hey there, I’m Rohini Patturaja!
+# 👋 Hey there, I’m Rohini Patturaja!
 
 
 
@@ -6,49 +6,47 @@
 
 I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I thrive at the crossroads of data, business, and innovation—transforming raw numbers into clear stories that drive smarter decisions and empower diverse, data-informed cultures.
 
-🌟 What I'm Up To
+## 🌟 What I'm Up To
 
-•	🧑‍💼 Currently: Working as a Graduate Assistant at the UCM Alumni Foundation, contributing to alumni engagement, data-driven outreach, and community-building initiatives.
-•	📚 Learning: Advancing my skills in data analytics and machine learning through the MS in Data Science program at the University of Central Missouri (UCM).
-•	💡 Exploring: The power of sales and marketing analytics to drive customer insights, optimize campaign performance, and influence data-informed business decisions.
+- 🧑‍💻 **Currently**: Working as a Graduate Assistant at the UCM Alumni Foundation, contributing to alumni engagement, data-driven outreach, and community-building initiatives.
+- 📚 **Learning**:  Advancing my skills in data analytics and machine learning through the MS in Data Science program at the University of Central Missouri (UCM).
+- 💡 **Exploring**:  The power of sales and marketing analytics to drive customer insights, optimize campaign performance, and influence data-informed business decisions.
 
-🚀 Highlighted Projects
-* IBM: Proficient in querying and manipulating data with SQL.
-* Python : Utilizes Python for data wrangling and advanced analytics.
-* Excel : Generates reports and performs data analysis using MS Excel.
-* Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.
-* Informatica PowerCenter: Designs and automates robust ETL pipelines to extract, transform, and load data from diverse sources into target systems using a scalable, GUI‑based platform.
+## 🚀 Highlighted Projects
 
-🛠️ Tech Stack
-Languages: SQL, Python
-Database: SQL Server, PostgreSQL, Oracle, MySQL
-Visualization: Power BI, Tableau
-Tools: Informatica PowerCenter
-Currently Exploring: 
+### 🛡️ [Equal Wheels]([https://equalwheels.com](https://equal-wheels.vercel.app/))
+### 🤖 [NIM Game]([https://github.com/aimen-moten/NIM-Game](https://github.com/aimen-moten/AIProject1-NIMGame))
+### 🌱 [Wellness Wings]([https://github.com/aimen-moten/Wellness-Wings](https://github.com/aimen-moten/wellness-wings-prototype))
 
-🎓 Beyond Code
-•	🎗️ Volunteer & Advocate: Actively volunteer at the Senior Center, support initiatives like Rise Against Hunger, and contribute to community service in Missouri through MO Volunteer programs.
-•	🎓 Alumni Ambassador & GSA PR Chair: Serve as an Alumni Ambassador and Public Relations Chair for UCM’s Graduate Student Association (GSA), helping build stronger connections between students, alumni, and university leadership.
-•	📣 Event Engagement Lead: Have been part of planning and engaging alumni-focused events, strengthening UCM’s alumni network and fostering lifelong relationships.
+* IBM:
+* CGI : 
 
-* Check out my Project Portfolio : [https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja]
+## 🛠️ Tech Stack
 
+- **Languages**:  SQL, Python
+- **Database**:  SQL Server, PostgreSQL, Oracle, MySQL
+- **Visualization Tools**:  Power BI, Tableau
+- **Tools**:  Informatica PowerCenter
+- **Currently Exploring**:  
 
-🕸️Let's Connect
- 
-* Linkedln | [Rohini Patturaja](https://www.linkedin.com/in/your‑username/).
+## 🎓 Beyond Code
+- 🎗️ **Volunteer & Advocate**: Actively volunteer at the Senior Center, support initiatives like Rise Against Hunger, and contribute to community service in Missouri through MO Volunteer programs.
+- 🎓 **Alumni Ambassador & GSA PR Chair**: Serve as an Alumni Ambassador and Public Relations Chair for UCM’s Graduate Student Association (GSA), helping build stronger connections between students, alumni, and university leadership.
+- 📣 **Event Engagement Lead**: Have been part of planning and engaging alumni-focused events, strengthening UCM’s alumni network and fostering lifelong relationships.
 
-🌐 Let's Connect!
+## 🌐 Let's Connect!
+
 I’m always open to discussing new projects, collaborating on innovative ideas, or just having a chat about tech, travel, and everything in between.
 
-💼 LinkedIn: [Rohini Patturaja](https://www.linkedin.com/in/your‑username/)
-📧 Email: rohinipatturaja@gmail.com
-🗂️ GitHub: [https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja]
+- 💼 **LinkedIn**: [Rohini Patturaja](https://linkedin.com/in/rohini-patturaja)
+- 📧 **Email**: [rohinipatturaja@gmail.com](mailto:rohinipatturaja@gmail.com)
+- 🗂️ **GitHub**: [github.com/rohini-patturaja](https://github.com/rohini-patturaja/Portfolio_Rohini_Patturaja)
 
-💬 Fun Facts
-💃 I have a background in modeling and love expressing creativity through fashion.
-✈️ I’m an aspiring travel content creator, with the ambitious goal of wanting to visit 30 countries.
-🍱 I’m passionate about exploring new food spots and enjoy cooking diverse cuisines in my free time.
+## 💬 Fun Facts
+- 💃 I have a background in modeling and love expressing creativity through fashion.
+- ✈️ I’m an aspiring travel content creator, with the ambitious goal of wanting to visit 30 countries.
+- 🍱 I’m passionate about exploring new food spots and enjoy cooking diverse cuisines in my free time.
+
 Feel free to browse my projects or drop me a message. Let’s make something awesome together!
 
 

@@ -15,7 +15,7 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 ## 🚀 Highlighted Projects
 
 ### 🛡️ [Equal Wheels]([https://equalwheels.com](https://equal-wheels.vercel.app/))
-### 🤖 [NIM Game]([https://github.com/aimen-moten/NIM-Game](https://github.com/aimen-moten/AIProject1-NIMGame))
+### 💖 [NIM Game]([https://github.com/rohini-patturaja/Heart-Analysis-Prediction]((https://github.com/rohini-patturaja/Heart-Analysis-Prediction)))
 ### 🌱 [Wellness Wings]([https://github.com/aimen-moten/Wellness-Wings](https://github.com/aimen-moten/wellness-wings-prototype))
 
 * IBM:

@@ -1,23 +1,19 @@
 # 👋 Hey there, I’m Rohini Patturaja!
 
-
-
-![2](https://github.com/user-attachments/assets/6f86c1ff-59d2-4545-9fb0-60284876ffa6)
-
 I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I thrive at the crossroads of data, business, and innovation—transforming raw numbers into clear stories that drive smarter decisions and empower diverse, data-informed cultures.
 
 ## ⭐ Tableau Visualisations
-<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CustomerSegmentAnalysis_17371121939960/Overview">
-    <img src="https://public.tableau.com/thumb/views/CustomerSegmentAnalysis_17371121939960/Overview" width ="30%">
+<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/Superstore_17527319373180/Overview">
+    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/Superstore_17527319373180/Overview" width ="30%">
   </a>
-<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis">
-    <img src="https://public.tableau.com/thumb/views/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis" width ="30%">
+<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/CustomerLifetimeValueMatrix_17541000260150/CLTV">
+    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/CustomerLifetimeValueMatrix_17541000260150/CLTV" width ="30%">
   </a>
-<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UXDesignPrinciples/LandingPage">
-    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
+<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/LifeExpectancyvsIncomeDynamicAxisranges/DynamicAxisRanges">
+    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/LifeExpectancyvsIncomeDynamicAxisranges/DynamicAxisRanges" width ="30%">
   </a>
-    <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/YoutubeTableauDashbaord_16998214873340/OverviewV2">
-    <img src="https://public.tableau.com/thumb/views/YoutubeTableauDashbaord_16998214873340/OverviewV2" width ="30%">
+    <a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/FunnelChart_17547659564510/Funnel">
+    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/FunnelChart_17547659564510/Funnel" width ="30%">
   </a>
 
 
@@ -27,7 +23,7 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 ### 💖 [Heart analysis Prediction]([https://github.com/rohini-patturaja/Heart-Analysis-Prediction]((https://github.com/rohini-patturaja/Heart-Analysis-Prediction)))
 ### 🌱 [New Project]([https://github.com/aimen-moten/Wellness-Wings](https://github.com/aimen-moten/wellness-wings-prototype))
 
-* IBM:
+* IBM :
 * CGI : 
 
 ## 🛠️ Tech Stack

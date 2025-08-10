@@ -6,11 +6,20 @@
 
 I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I thrive at the crossroads of data, business, and innovation—transforming raw numbers into clear stories that drive smarter decisions and empower diverse, data-informed cultures.
 
-## 🌟 What I'm Up To
+## ⭐ Tableau Visualisations
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/CustomerSegmentAnalysis_17371121939960/Overview">
+    <img src="https://public.tableau.com/thumb/views/CustomerSegmentAnalysis_17371121939960/Overview" width ="30%">
+  </a>
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis">
+    <img src="https://public.tableau.com/thumb/views/SuperstoreReturnsAnalysis_17368249639540/SuperstoreReturnAnalysis" width ="30%">
+  </a>
+<a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/UXDesignPrinciples/LandingPage">
+    <img src="https://public.tableau.com/thumb/views/UXDesignPrinciples/LandingPage" width ="30%">
+  </a>
+    <a href="https://public.tableau.com/app/profile/valerie.madojemu/viz/YoutubeTableauDashbaord_16998214873340/OverviewV2">
+    <img src="https://public.tableau.com/thumb/views/YoutubeTableauDashbaord_16998214873340/OverviewV2" width ="30%">
+  </a>
 
-- 🧑‍💻 **Currently**: Working as a Graduate Assistant at the UCM Alumni Foundation, contributing to alumni engagement, data-driven outreach, and community-building initiatives.
-- 📚 **Learning**:  Advancing my skills in data analytics and machine learning through the MS in Data Science program at the University of Central Missouri (UCM).
-- 💡 **Exploring**:  The power of sales and marketing analytics to drive customer insights, optimize campaign performance, and influence data-informed business decisions.
 
 ## 🚀 Highlighted Projects
 

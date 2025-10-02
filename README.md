@@ -19,20 +19,20 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 
 ## 🚀 Highlighted Projects
 
-### 🛡️ [MarketMindz Dashboard]([https://equalwheels.com](https://equal-wheels.vercel.app/))
+### 🛡️ [MarketMindz Dashboard]([https://github.com/rohini-patturaja/MarketMindz]((https://github.com/rohini-patturaja/MarketMindz)))
 ### 💖 [Heart analysis Prediction]([https://github.com/rohini-patturaja/Heart-Analysis-Prediction]((https://github.com/rohini-patturaja/Heart-Analysis-Prediction)))
-### 🌱 [New Project]([https://github.com/aimen-moten/Wellness-Wings](https://github.com/aimen-moten/wellness-wings-prototype))
+### 🌱 [E-Commerce User Behavior Retention Analysis]([https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis))
 
-* IBM :
-* CGI : 
+- **IBM**: Worked on enterprise data integration and ETL workflows using Informatica PowerCenter, delivering robust data pipelines for business intelligence reporting.  
+- **CGI**: Contributed to database development and reporting automation projects, supporting client-facing dashboards and optimizing SQL queries for performance.
 
 ## 🛠️ Tech Stack
 
 - **Languages**:  SQL, Python
 - **Database**:  SQL Server, PostgreSQL, Oracle, MySQL
-- **Visualization Tools**:  Power BI, Tableau
+- **Visualization Tools**: Tableau, Power BI
 - **Tools**:  Informatica PowerCenter
-- **Currently Exploring**:  
+- **Currently Exploring**:  Researching and building an AI-powered solution that integrates Retrieval-Augmented Generation (RAG) with Large Language Models (LLMs) on AWS. This includes deploying scalable architectures for document-based question answering using Amazon Bedrock, Amazon S3, and vector databases.
 
 ## 🎓 Beyond Code
 - 🎗️ **Volunteer & Advocate**: Actively volunteer at the Senior Center, support initiatives like Rise Against Hunger, and contribute to community service in Missouri through MO Volunteer programs.

@@ -23,6 +23,18 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 ### 💖 [Heart analysis Prediction]([https://github.com/rohini-patturaja/Heart-Analysis-Prediction]((https://github.com/rohini-patturaja/Heart-Analysis-Prediction)))
 ### 🌱 [E-Commerce User Behavior Retention Analysis]([https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis))
 
+## 🚀 Highlighted Projects
+
+### 🛡️ [MarketMindz Dashboard](https://github.com/rohini-patturaja/MarketMindz)  
+A Power BI project analyzing marketing campaign performance, customer behavior, and product KPIs for a retail vendor.
+
+### 💖 [Heart Analysis Prediction](https://github.com/rohini-patturaja/Heart-Analysis-Prediction)  
+A machine learning model built in Python to predict heart disease using clinical data, featuring data preprocessing, visualization, and model evaluation.
+
+### 🌱 [E-Commerce User Behavior Retention Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis)  
+Analyzed customer retention and engagement using cohort analysis and A/B testing to drive actionable insights for e-commerce growth.
+
+
 - **IBM**: Worked on enterprise data integration and ETL workflows using Informatica PowerCenter, delivering robust data pipelines for business intelligence reporting.  
 - **CGI**: Contributed to database development and reporting automation projects, supporting client-facing dashboards and optimizing SQL queries for performance.
 

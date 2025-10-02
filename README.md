@@ -19,12 +19,6 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 
 ## 🚀 Highlighted Projects
 
-### 🛡️ [MarketMindz Dashboard]([https://github.com/rohini-patturaja/MarketMindz]((https://github.com/rohini-patturaja/MarketMindz)))
-### 💖 [Heart analysis Prediction]([https://github.com/rohini-patturaja/Heart-Analysis-Prediction]((https://github.com/rohini-patturaja/Heart-Analysis-Prediction)))
-### 🌱 [E-Commerce User Behavior Retention Analysis]([https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis))
-
-## 🚀 Highlighted Projects
-
 ### 🛡️ [MarketMindz Dashboard](https://github.com/rohini-patturaja/MarketMindz)  
 A Power BI project analyzing marketing campaign performance, customer behavior, and product KPIs for a retail vendor.
 

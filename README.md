@@ -2,25 +2,15 @@
 
 I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I thrive at the crossroads of data, business, and innovation—transforming raw numbers into clear stories that drive smarter decisions and empower diverse, data-informed cultures.
 
-## ⭐ Tableau Visualisations
-<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/Superstore_17527319373180/Overview">
-    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/Superstore_17527319373180/Overview" width ="30%">
-  </a>
-<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/CustomerLifetimeValueMatrix_17541000260150/CLTV">
-    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/CustomerLifetimeValueMatrix_17541000260150/CLTV" width ="30%">
-  </a>
-<a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/LifeExpectancyvsIncomeDynamicAxisranges/DynamicAxisRanges">
-    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/LifeExpectancyvsIncomeDynamicAxisranges/DynamicAxisRanges" width ="30%">
-  </a>
-    <a href="https://public.tableau.com/app/profile/rohini.patturaja/viz/FunnelChart_17547659564510/Funnel">
-    <img src="https://public.tableau.com/app/profile/rohini.patturaja/viz/FunnelChart_17547659564510/Funnel" width ="30%">
-  </a>
+## Work Experience
+- **IBM**: Worked on enterprise data integration and ETL workflows using Informatica PowerCenter, delivering robust data pipelines for business intelligence reporting.  
+- **CGI**: Contributed to database development and reporting automation projects, supporting client-facing dashboards and optimizing SQL queries for performance.
 
 
 ## 🚀 Highlighted Projects
 
-### 🛡️ [MarketMindz Dashboard](https://github.com/rohini-patturaja/MarketMindz)  
-A Power BI project analyzing marketing campaign performance, customer behavior, and product KPIs for a retail vendor.
+### 🛡️ [Email Engagement Dashboard](https://github.com/rohini-patturaja/Email-Engagement-Analytics-Dashboard)  
+Analyzed email engagement and built predictive models to optimize targeting, increasing expected click-through rates by 225%.
 
 ### 💖 [Heart Analysis Prediction](https://github.com/rohini-patturaja/Heart-Analysis-Prediction)  
 A machine learning model built in Python to predict heart disease using clinical data, featuring data preprocessing, visualization, and model evaluation.
@@ -28,9 +18,6 @@ A machine learning model built in Python to predict heart disease using clinical
 ### 🌱 [E-Commerce User Behavior Retention Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis)  
 Analyzed customer retention and engagement using cohort analysis and A/B testing to drive actionable insights for e-commerce growth.
 
-
-- **IBM**: Worked on enterprise data integration and ETL workflows using Informatica PowerCenter, delivering robust data pipelines for business intelligence reporting.  
-- **CGI**: Contributed to database development and reporting automation projects, supporting client-facing dashboards and optimizing SQL queries for performance.
 
 ## 🛠️ Tech Stack
 

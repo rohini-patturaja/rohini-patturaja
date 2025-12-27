@@ -1,6 +1,11 @@
 # 👋 Hey there, I’m Rohini Patturaja!
 
-I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I thrive at the crossroads of data, business, and innovation—transforming raw numbers into clear stories that drive smarter decisions and empower diverse, data-informed cultures.
+## Senior Data Analyst | Data Storytelling | Business Intelligence
+
+Senior Data Analyst focused on practical, decision-driven analytics.
+I work at the intersection of data and business — asking the right questions, analyzing carefully, and communicating insights clearly. My goal is always the same: help people make better decisions with data.
+This GitHub contains projects and experiments that reflect how I work.
+
 
 ## 🚀 Highlighted Projects
 
@@ -18,7 +23,7 @@ I'm a passionate Data Analyst, fueled by the pursuit of actionable insights, I t
 ### 🌱 [E-Commerce User Behavior Retention Analysis](https://github.com/rohini-patturaja/E-Commerce-User-Behavior-Retention-Analysis)  
 - Analyzed customer retention and engagement using **cohort analysis** and **A/B testing**  
 - Identified key behavioral trends to improve user retention strategies  
-- Delivered actionable insights to support data-driven e-commerce growth 
+- Delivered actionable insights to support data-driven e-commerce growth
 
 ## 🛠️ Tech Stack
 

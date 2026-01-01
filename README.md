@@ -6,6 +6,7 @@ Senior Data Analyst focused on practical, decision-driven analytics.
 I work at the intersection of data and business — asking the right questions, analyzing carefully, and communicating insights clearly. My goal is always the same: help people make better decisions with data.
 This GitHub contains projects and experiments that reflect how I work.
 
+![Profile Views](https://komarev.com/ghpvc/?username=rohini-analytics&color=blue)
 
 ## 🚀 Highlighted Projects
 

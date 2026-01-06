@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Rohini Patturaja!
 
-## Senior Data Analyst | Data Storytelling | Business Intelligence
+## Data Analyst | Data Storytelling | Business Intelligence
 
-Senior Data Analyst focused on practical, decision-driven analytics.
+Data Analyst focused on practical, decision-driven analytics.
 I work at the intersection of data and business — asking the right questions, analyzing carefully, and communicating insights clearly. My goal is always the same: help people make better decisions with data.
 This GitHub contains projects and experiments that reflect how I work.
 
